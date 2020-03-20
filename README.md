@@ -11,5 +11,5 @@ Visual Studio 2017, CUDA 9.0, cudnn 7.4.2, python 3.6, numpy 1.14, pytorch 1.12,
 ## Poster Presentation
 ![image](https://github.com/yingtaoluo/Matermaterial-Multivalued-Inverse-Design/blob/master/POSTER%20PDN.jpg)  
 ## Data  
-Download link: https://pan.baidu.com/s/1o-XGURFwhsjAf7trTFM7ww
+Download link: https://pan.baidu.com/s/1o-XGURFwhsjAf7trTFM7ww  
 Extraction code： xask
