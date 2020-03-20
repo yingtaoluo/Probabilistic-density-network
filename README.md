@@ -5,7 +5,7 @@ A probability-density-based neural network (PDN) is proposed to address the mult
 Ying-Tao Luo, Peng-Qi Li, Xin-Sheng Fang, Yu-Gui Peng, Zhi-Guo Geng, Shu-Huan Xie, Yong Li*, Jie Zhu*, Xue-Feng Zhu*
 ## Contact Information
 Xuefeng Zhu (xfzhu@hust.edu.cn)  
-Yingtao Luo (yingtao.luo@columbia.edu)
+Yingtao Luo (primary: yingtao_luo@alumni.hust.edu.cn)(also: yingtao.luo@columbia.edu)
 ## Prerequisite Environment (Recommended)
 Visual Studio 2017, CUDA 9.0, cudnn 7.4.2, python 3.6, numpy 1.14, pytorch 1.12, sklearn, matplotlib 3.1.0, scipy 1.2.1
 ## Poster Presentation
