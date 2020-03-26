@@ -7,7 +7,8 @@ Ying-Tao Luo, Peng-Qi Li, Dong-Ting Li, Yu-Gui Peng, Zhi-Guo Geng, Shu-Huan Xie,
 Xuefeng Zhu (xfzhu@hust.edu.cn)  
 Yingtao Luo (primary: yingtao_luo@alumni.hust.edu.cn)(also: yingtao.luo@columbia.edu)
 ## Prerequisite Environment (Recommended)
-Visual Studio 2017, CUDA 9.0, cudnn 7.4.2, python 3.6, numpy 1.14, pytorch 1.12, sklearn, matplotlib 3.1.0, scipy 1.2.1
+For neural network training: VS2017, CUDA, cudnn, python, numpy, pytorch, sklearn, matplotlib, scipy  
+For numerical simulation: Matlab2017b, COMSOL5.4
 ## Poster Presentation
 ![image](https://github.com/yingtaoluo/Probabilistic-density-network/blob/master/POSTER_PDN.jpg)  
 ## Data  
