@@ -8,7 +8,7 @@ Yingtao Luo (yingtao_luo@alumni.hust.edu.cn)
 ## Prerequisite Environment (Recommended)
 For neural network training: VS2017, CUDA, cudnn, python, numpy, pytorch, sklearn, matplotlib, scipy  
 For numerical simulation: Matlab2017b, COMSOL5.4
-## Poster Presentation
+## Poster Presentation (ver: 2019.12)
 ![image](https://github.com/yingtaoluo/Probabilistic-density-network/blob/master/POSTER_PDN.jpg) 
 ## Data  
 Download link: https://pan.baidu.com/s/1o-XGURFwhsjAf7trTFM7ww  
