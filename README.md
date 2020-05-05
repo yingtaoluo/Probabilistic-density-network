@@ -9,7 +9,7 @@ Yingtao Luo (yingtao_luo@alumni.hust.edu.cn)
 For neural network training: VS2017, CUDA, cudnn, python, numpy, pytorch, sklearn, matplotlib, scipy  
 For numerical simulation: Matlab2017b, COMSOL5.4
 ## Poster Presentation
-![image](https://github.com/yingtaoluo/Probabilistic-density-network/blob/master/POSTER_MetaDesign.jpg)
+![image](https://github.com/yingtaoluo/Probabilistic-density-network/blob/master/POSTER MetaDesign.jpg)
 ## Data  
 Download link: https://pan.baidu.com/s/1o-XGURFwhsjAf7trTFM7ww  
 Extraction code： xask
