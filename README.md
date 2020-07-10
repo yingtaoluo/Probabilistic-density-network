@@ -1,5 +1,5 @@
 # Probabilistic-density-network   
-A probability-density-based neural network (PDN) is proposed to address the multivalued relation between transmission and structure design that artificial neural network fails to tackle.  This appraoch is stable in optimization and does not need time-consuming bi-level hyper-parameter tuning. We show that this approach excels in efficiency, accuracy, and output variety than other state-of-the-art deep learning models, such as VAE/GAN with Bayes Optimization.
+A probability-density-based neural network (PDN) is proposed to address the multivalued relation between transmission and structure design that artificial neural network fails to tackle.  This appraoch is stable in optimization without time-consuming trial-and-error hyper-parameter tuning. It excels in efficiency, accuracy, and output variety than other state-of-the-art models, such as VAE/GAN with Bayes Optimization.
 ## Authors
 Ying-Tao Luo, Peng-Qi Li, Dong-Ting Li, Yu-Gui Peng, Zhi-Guo Geng, Shu-Huan Xie, Yong Li, Andrea Alu, Xue-Feng Zhu
 ## Contact Information
