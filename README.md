@@ -5,6 +5,3 @@ For neural network training: VS2017, CUDA, cudnn, python, numpy, pytorch, sklear
 For numerical simulation: Matlab2017b, COMSOL5.4
 ## Poster Presentation
 ![image](https://github.com/yingtaoluo/Probabilistic-density-network/blob/master/POSTER_PDN.jpg)
-## Data  
-Download link: https://pan.baidu.com/s/1o-XGURFwhsjAf7trTFM7ww  
-Extraction code： xask
